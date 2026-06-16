@@ -1,0 +1,12 @@
+# Секреты — никогда не публиковать
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+tokens.*
+*.credentials
+
+# Системное
+.DS_Store
+Thumbs.db
